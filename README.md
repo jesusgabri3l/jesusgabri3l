@@ -1,4 +1,4 @@
-### Hi there, im Jesús Gabriel 👋
+### Hi there, i'm Jesús Gabriel 👋
 
 
 - 🌱 I’m currently learning Express.js
