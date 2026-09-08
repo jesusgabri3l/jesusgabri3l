@@ -1,8 +1,6 @@
 # Hi, I'm Jesús Gabriel 👋
 
-**Software Engineer** | Full-Stack JavaScript | Building end-to-end solutions
-
-I design and build complete software solutions — from the API and data layer up to the client — with JavaScript as my core stack across the board. Lately, I'm deep into exploring **AI as a real productivity multiplier**, not just a buzzword: experimenting with how to integrate it into real engineering workflows to ship faster without cutting corners on quality or architecture.
+**Software Engineer** | Full-Stack JavaScript
 
 - 🚀 **Software Engineer**, full-stack JavaScript — comfortable owning a feature end-to-end, from backend logic to UI
 - 🧠 Exploring **AI-augmented engineering** — AI-assisted tooling, workflows, and how to make AI a genuine multiplier in the development process
