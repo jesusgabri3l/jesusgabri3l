@@ -1,6 +1,6 @@
 # Hi, I'm Jesús Gabriel 👋
 
-**Software Engineer** | Full-Stack JavaScript
+**Software Engineer** | **Full-Stack JavaScript Developer**
 
 - 🚀 **Software Engineer**, full-stack JavaScript — comfortable owning a feature end-to-end, from backend logic to UI
 - 🧠 Exploring **AI-augmented engineering** — AI-assisted tooling, workflows, and how to make AI a genuine multiplier in the development process
