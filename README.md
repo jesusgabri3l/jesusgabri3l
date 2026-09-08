@@ -7,7 +7,7 @@
 - 💛 Core stack: **Node.js**, **Vue.js**, **React.js**, and solid **CSS/JS** fundamentals
 - 🏗️ I care about clean architecture, maintainable code, and building things that scale — not just things that work
 - ⚡ Fast learner, always picking up new tools, patterns, and best practices
-- 👀 Check out my work: [jesusgabri3l.vercel.app](https://jesusgabri3l.vercel.app/)
+- 👀 Check out my work: [jesusgabriel.dev](https://jesusgabriel.dev/)
 - 💬 Open to freelance projects, collaborations, or talking shop about full-stack JS architecture or AI-powered dev workflows
 
 ---
