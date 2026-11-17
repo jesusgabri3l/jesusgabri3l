@@ -27,5 +27,5 @@ Got a project in mind? Reach out — I'd love to hear about it.
 [![Portfolio](https://img.shields.io/badge/Portfolio-jesusgabriel.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jesusgabriel.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesus--ahumada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-ahumada)
 [![Instagram](https://img.shields.io/badge/Instagram-@jesusgabri3l.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jesusgabri3l.dev/)
-[![X](https://img.shields.io/badge/X-@jesusgabri3ll-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jesusgabri3ll)
+[![X](https://img.shields.io/badge/X-@jesusgabri3ll-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jesusgabri3ldev)
 [![Email](https://img.shields.io/badge/Email-contact@jesusgabriel.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jesusgabriel.dev)
